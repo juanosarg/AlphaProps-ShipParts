@@ -1,7 +1,7 @@
 <Defs>
 
   
-  <ThingDef ParentName="BaseShipArtilleryBuilding">
+  <ThingDef ParentName="BaseShipTurretBuilding">
     <defName>AS_ShipTurret_Bio</defName>
     <label>bio turret</label>
     <description>A starship turret that fires a dangerous bio-engineered capsule. While it isn't very damaging to artificial structures, it will quickly poison and corrupt any organic matter it touches.\n\nWill vent heat to the surrounding room if no heatsink capacity is available.</description>

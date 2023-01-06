@@ -52,7 +52,7 @@
       <li Class="CompProperties_ShipHeat">
         <compClass>CompShipHeatSink</compClass>
 		<heatCapacity>120</heatCapacity>
-		<heatVentTick>200</heatVentTick>
+		<heatVent>200</heatVent>
       </li>
       <li Class="CompProperties_Power">
         <compClass>CompPowerTransmitter</compClass>
