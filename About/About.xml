@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Alpha Ships</name>
+	<name>Alpha Props - Ship Parts</name>
 	<author>Sarg Bjornson</author>
 	<supportedVersions>
-    
-      <li>1.1</li>
-	    <li>1.2</li>
-	  
-   </supportedVersions>
-   <packageId>sarg.alphaships</packageId>
-   <modDependencies>
-		
+		<li>1.5</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/AlphaPropsShipsLogo</modIconPath>
+	<packageId>sarg.alphapropsships</packageId>
+	<modDependencies>
 		<li>
-			<packageId>kentington.saveourship2</packageId>
-			<displayName>Save Our Ship 2</displayName>
-			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1909914131</steamWorkshopUrl>
-			<downloadUrl></downloadUrl>
+			<packageId>VanillaExpanded.VFEPropsandDecor</packageId>
+			<displayName>Vanilla Furniture Expanded - Props and Decoration</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2102143149</steamWorkshopUrl>
+			<downloadUrl>https://github.com/Vanilla-Expanded/VanillaFurnitureExpanded-Props</downloadUrl>
 		</li>
 	</modDependencies>
 	<loadAfter>
-		<li>kentington.saveourship2</li>
-		
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>VanillaExpanded.VFEPropsandDecor</li>
 	</loadAfter>
-	<description>Spice up your Save Our Ship 2 spaceships with modular pieces!
-	
-&lt;size=24&gt;Features&lt;/size&gt;
+	<description>Adds 64 new space ship props for Vanilla Furniture Expanded - Props and Decorations. These are non-functional and for decorative purposes only.
 
-Alpha Ships adds 64 new modular spaceship parts that you can add to your spaceships to customize them in thousands of combinations. These spaceship pieces can be scavanged from random space combat encounters or acquired at a hefty price from the new Ship Parts Trader orbital merchant.
+&lt;size=24&gt;Credits&lt;/size&gt;
+
+The authors of Save Our Ship 2, Thain and Kentington, for originally inspiring the pieces in this mod.
 
 &lt;size=24&gt;Issues&lt;/size&gt;
 
-There should be none.
+No issues known at the moment 
 
-&lt;size=24&gt;Compatibility&lt;/size&gt;
+&lt;size=24&gt;Plans for the future&lt;/size&gt;
 
-Mod should be compatible with everything. It obviously needs Save Our Ship 2 to work. It DOESN'T NEED Alpha Animals, though some will appear in space encounters if you have both mods active.
-
-&lt;size=24&gt;Credit&lt;/size&gt;
-
-Thanks to Thain and Kentington for SoS2 and for their help with this mod.
+Oh you can bet I will add new things!
 
 &lt;size=24&gt;Changelog&lt;/size&gt;
 
-v1.0: Release version (12/07/20)
-v0.1: Prerelease
-
-	
-
-	</description>
+Full changelog on GitHub</description>
 </ModMetaData>
