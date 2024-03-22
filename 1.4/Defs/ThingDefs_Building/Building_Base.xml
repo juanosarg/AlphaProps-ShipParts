@@ -6,7 +6,7 @@
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>Transparent</shaderType>
 		</graphicData>
-		<blocksPlants>true</blocksPlants>
+		<blockPlants>true</blockPlants>
 		<rotatable>true</rotatable>
 		<altitudeLayer>Floor</altitudeLayer>
 		<passability>Standable</passability>
