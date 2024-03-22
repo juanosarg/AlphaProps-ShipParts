@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<VFEProps.PropCategoryDef>
+		<defName>VFE_PropCategory_SpaceshipParts</defName>
+		<label>ship parts</label>
+		<description>Spaceship part props. Decorative parts to spice up your vanilla ships, or for use with Save our Ship 2.</description>
+		<priority>11.5</priority>
+		<icon>UI/Categories/Props_ShipParts</icon>
+	</VFEProps.PropCategoryDef>
+	
+	
+
+</Defs>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<VFEProps.PropDef Abstract="true" Name="AP_ShipFloorPropBase">
+		<useMatsInsteadOfSilver>true</useMatsInsteadOfSilver>
+	</VFEProps.PropDef>
+	<VFEProps.PropDef ParentName="AP_ShipFloorPropBase">
+		<defName>AP_Prop_Floors_Regolith</defName>
+		<category>AP_PropCategory_Floors</category>
+		<priority>10</priority>
+		<prop>AP_BlackRegolith</prop>
+	</VFEProps.PropDef>
+	<VFEProps.PropDef ParentName="AP_ShipFloorPropBase">
+		<defName>AP_Prop_Floors_BioHull</defName>
+		<category>AP_PropCategory_Floors</category>
+		<priority>11</priority>
+		<prop>AP_BioHull</prop>
+	</VFEProps.PropDef>
+	<VFEProps.PropDef ParentName="AP_ShipFloorPropBase">
+		<defName>AP_Prop_Floors_BlackTileHull</defName>
+		<category>AP_PropCategory_Floors</category>
+		<priority>12</priority>
+		<prop>AP_BlackTileHull</prop>
+	</VFEProps.PropDef>
+</Defs>

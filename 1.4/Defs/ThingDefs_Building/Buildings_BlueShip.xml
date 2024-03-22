@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkBottom</defName>
+		<label>imperial escort ship, bottom</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkBottom</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(26,26)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(21,26)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkBottomAlternate</defName>
+		<label>imperial escort ship, wide bottom</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkBottom2</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(25,25)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(25,25)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkRound</defName>
+		<label>imperial escort ship, round core</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkRound</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(11,11)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(11,11)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkSideLeft</defName>
+		<label>imperial escort ship, left side</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkSideLeft</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(22,22)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(8,22)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkSideRight</defName>
+		<label>imperial escort ship, right side</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkSideRight</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(22,22)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(8,22)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkSmallSideLeft</defName>
+		<label>imperial escort ship, small left side</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkSmallSideLeft</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(12,12)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(5,12)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkSmallSideRight</defName>
+		<label>imperial escort ship, small right side</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkSmallSideRight</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(12,12)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(5,12)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkTop</defName>
+		<label>imperial escort ship, top</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkTop</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(7,7)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(7,5)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkTopAlternate</defName>
+		<label>imperial escort ship, top alternate</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkTopAlternate</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(7,7)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(7,5)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkTopAntennas</defName>
+		<label>imperial escort ship, top with antennas</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkTopAntennas</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(15,15)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(15,13)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkTopPointy</defName>
+		<label>imperial escort ship, top large</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkTopPointy</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(17,17)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(9,17)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkSmallWingLeft</defName>
+		<label>imperial escort ship, small wing left</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkSmallWingLeft</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(22,22)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(8,22)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkSmallWingRight</defName>
+		<label>imperial escort ship, small wing right</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkSmallWingRight</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(22,22)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(8,22)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkWingLeft</defName>
+		<label>imperial escort ship, wing left</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkWingLeft</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(22,22)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(8,22)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkWingRight</defName>
+		<label>imperial escort ship, wing right</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkWingRight</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(22,22)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(8,22)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkRoundSideLeft</defName>
+		<label>imperial escort ship, round side left</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkRoundSideLeft</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(18,18)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(6,18)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkRoundSideRight</defName>
+		<label>imperial escort ship, round side right</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkRoundSideRight</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(18,18)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(6,18)</size>
+	</ThingDef>
+	<ThingDef ParentName="AP_ShipPartBase">
+		<defName>AP_BlueShipChunkTopAntennasNarrow</defName>
+		<label>imperial escort ship, top narrow antennas</label>
+		<description>Imperial escort ships are designed and operated as escorts for convoys of merchant ships and other naval vessels. Even the biggest escort ships are designed for intra-system travel, and are completely incapable of interstellar travel, most of them even lacking cryptosleep facilities.</description>
+		<graphicData>
+			<texPath>Things/Building/AS_BlueShipChunkTopAntennasNarrow</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+			<drawSize>(7,7)</drawSize>
+		</graphicData>
+		<uiIconScale>0.5</uiIconScale>
+		<size>(5,7)</size>
+	</ThingDef>
+</Defs>

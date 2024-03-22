@@ -3,6 +3,7 @@
 	<name>Alpha Props - Ship Parts</name>
 	<author>Sarg Bjornson</author>
 	<supportedVersions>
+		<li>1.4</li>
 		<li>1.5</li>
 	</supportedVersions>
 	<modIconPath IgnoreIfNoMatchingField="True">UI/AlphaPropsShipsLogo</modIconPath>
@@ -19,7 +20,7 @@
 		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
 		<li>VanillaExpanded.VFEPropsandDecor</li>
 	</loadAfter>
-	<description>Adds 64 new space ship props for Vanilla Furniture Expanded - Props and Decorations. These are non-functional and for decorative purposes only.
+	<description>Adds 66 new space ship props for Vanilla Furniture Expanded - Props and Decorations. These are non-functional and for decorative purposes only. They can be used with Save Our Ship 2 or just placed in the colony to spice up vanilla space ships.
 
 &lt;size=24&gt;Credits&lt;/size&gt;
 

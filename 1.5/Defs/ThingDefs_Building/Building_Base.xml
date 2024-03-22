@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<ThingDef Abstract="True" ParentName="BuildingBase" Name="AP_ShipPartBase">
+		<thingClass>VFEProps.Building_SubstractsSilver</thingClass>
+		<graphicData>
+			<graphicClass>Graphic_Single</graphicClass>
+			<shaderType>Transparent</shaderType>
+		</graphicData>
+		<blocksPlants>true</blocksPlants>
+		<rotatable>true</rotatable>
+		<altitudeLayer>Floor</altitudeLayer>
+		<passability>Standable</passability>
+		<useHitPoints>false</useHitPoints>
+		<pathCost>0</pathCost>
+		<drawerType>MapMeshOnly</drawerType>
+		<building>
+			<isInert>true</isInert>
+			<isEdifice>false</isEdifice>
+			<paintable>true</paintable>
+			<ai_neverTrashThis>true</ai_neverTrashThis>
+			<artificialForMeditationPurposes>false</artificialForMeditationPurposes>
+			<shipPart>true</shipPart>
+		</building>
+		<castEdgeShadows>false</castEdgeShadows>
+		<fillPercent>0</fillPercent>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<WorkToBuild>0</WorkToBuild>
+			<Mass>50</Mass>
+			<Flammability>0</Flammability>
+		</statBases>
+		<uiIconScale>1</uiIconScale>
+		<filthLeaving Inherit="False"/>
+		<clearBuildingArea>false</clearBuildingArea>
+		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+		<comps>
+			<li Class="CompProperties_ShipPart"/>
+		</comps>
+	</ThingDef>
+</Defs>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<VFEProps.HiddenDesignatorsDef>
+		<defName>APropsShips_HiddenDesignators</defName>
+		<hiddenDesignators>			
+			
+			<li>AP_BlackRegolith</li>
+			<li>AP_BioHull</li>
+			<li>AP_BlackTileHull</li>
+			
+			
+		</hiddenDesignators>							
+	</VFEProps.HiddenDesignatorsDef>
+
+
+
+
+
+</Defs>
