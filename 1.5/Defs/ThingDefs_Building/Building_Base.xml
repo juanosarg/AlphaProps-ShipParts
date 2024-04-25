@@ -26,7 +26,7 @@
 		<statBases>
 			<MaxHitPoints>100</MaxHitPoints>
 			<WorkToBuild>0</WorkToBuild>
-			<Mass>50</Mass>
+			<Mass>1</Mass>
 			<Flammability>0</Flammability>
 		</statBases>
 		<uiIconScale>1</uiIconScale>
