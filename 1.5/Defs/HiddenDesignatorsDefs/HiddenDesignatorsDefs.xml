@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
 
-	<VFEProps.HiddenDesignatorsDef>
+	<VanillaFurnitureExpanded.HiddenDesignatorsDef>
 		<defName>APropsShips_HiddenDesignators</defName>
 		<hiddenDesignators>			
 			
@@ -11,7 +11,7 @@
 			
 			
 		</hiddenDesignators>							
-	</VFEProps.HiddenDesignatorsDef>
+	</VanillaFurnitureExpanded.HiddenDesignatorsDef>
 
 
 
